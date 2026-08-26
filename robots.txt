@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /template-booking.html
+Disallow: /template-minimal.html
+
+Sitemap: https://riachodocecasasitio.netlify.app/sitemap.xml
